@@ -1,7 +1,7 @@
 Companies in San Francisco
 ===
 
-Open Source list of technology companies and startups in San Francisco, addresses included. I dedicate this Github repo to all those in the bay area with shitty commutes. #pourOneOutForTheHomies
+Open Source list of technology companies and startups in San Francisco, addresses included. This project is for job seekers and salespeople to discover companies within the SF metro
 
 ## Companies
 
@@ -10,7 +10,7 @@ Name | Address | Year Founded | Website
 | Algolia | 589 Howard St, San Francisco, CA 94105 | 2012 | https://www.algolia.com/  | 
 | Alpha Sense | One Sansome St Suite 3500, San Francisco, CA 94104  | 2010 | https://www.alpha-sense.com/  | 
 | Apteligent  | 760 Market St #1101, San Francisco, CA 94102 | 2011  | http://www.apteligent.com/    | 
-| blend labs | 100 Montgomery St, Floor 25 | San Francisco, CA 94104  | 2012 | https://blend.com/ | 
+| blend labs | 100 Montgomery St, Floor 25, San Francisco, CA 94104  | 2012 | https://blend.com/ | 
 | Blurb | 580 California St # 300, San Francisco, CA 94104 | 2005  | http://www.blurb.com/| 
 | BrightBytes  | 490 2nd Street, Suite 302 San Francisco, CA 94107  | 2012 | http://www.brightbytes.net/ | 
 | Checkr | 2505 Mariposa St, San Francisco, CA 94110 | 2014 | https://checkr.com/  | 
