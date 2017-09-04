@@ -187,6 +187,21 @@ Name | Address | Year Founded | Website
 | Zignal Labs  | "995 Market St, San Francisco, CA 94103"   | 2011 | http://zignallabs.com/ | 
 | Zozi | "1 Beach St #300, San Francisco, CA 94133" | 2008 | https://www.zozi.com/  | 
 
+### Other company sources
+
+- Wealthfront Breakout Company List: https://notes.breakoutlist.com/breakout-list-annotated-version-of-wealthfronts-2017-career-launching-company-list-94444ab02ff
+
+- Crunchbase: https://www.crunchbase.com/app/search/companies/64e9ef5dd9ed4eaad32dc42e6dced9d86f469f3f
+
+- New YC List: https://newyclist.com/
+
+- AgelList: https://angel.co/san-francisco
+
+- Hired: https://hired.com/companies/san-francisco-bay-area
+
+- Startups in San Francisco: http://sanfrancisco.startups-list.com/
+
+- 500 Startups: https://500.co/startups/
 
 ### Thanks
 
