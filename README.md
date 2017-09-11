@@ -217,4 +217,4 @@ Name | Address | Year Founded | Website
 
 ### Thanks
 
-@donatj for the .csv to markdown table converter
+[@donatj/CsvToMarkdownTable](https://github.com/donatj/CsvToMarkdownTable) for the .csv to markdown table converter
