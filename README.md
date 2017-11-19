@@ -9,9 +9,7 @@ Follow on twitter [@Employbl_Jobs](https://twitter.com/Employbl_Jobs)
 
 ## Companies
 
-| Name                  | Address                                                      | Latitude   | Longitude    | Year Founded | Website | Contact Email
-|-----------------------|--------------------------------------------------------------|------------|--------------|------|--------------------------------------------------|--------------------------| 
-
+| Name                  | Address                                                      | Latitude   | Longitude    | Year Founded | Website | Contact Email 
 |-----------------------|--------------------------------------------------------------|------------|--------------|------|--------------------------------------------------|--------------------------| 
 | Abl Schools           | San Francisco                                                | 37.7749295 | -122.4194155 | 2015 | https://ablschools.com/                          | careers@ablschools.com   | 
 | Abstract              | "2567 Mission Street, San Francisco,  CA  94110 "            | 37.7560341 | -122.4185924 | 2015 | https://www.goabstract.com/                      | info@goabstract.com      | 
