@@ -10,7 +10,7 @@ Follow on twitter [@Employbl_Jobs](https://twitter.com/Employbl_Jobs)
 ## Companies
 
 | Name                  | Address                                                      | Latitude   | Longitude    | Year Founded | Website | Contact Email 
-|-----------------------|--------------------------------------------------------------|------------|--------------|------|--------------------------------------------------|--------------------------| 
+|-----------------------|--------------------------------------------------------------|------------|--------------|------|--------------------------------|--------------------------| 
 | Abl Schools           | San Francisco                                                | 37.7749295 | -122.4194155 | 2015 | https://ablschools.com/                          | careers@ablschools.com   | 
 | Abstract              | "2567 Mission Street, San Francisco,  CA  94110 "            | 37.7560341 | -122.4185924 | 2015 | https://www.goabstract.com/                      | info@goabstract.com      | 
 | Accenture             | "560 Mission St #1200, San Francisco, CA 94105"              | 37.7886963 | -122.399372  | 1989 | https://www.accenture.com                        |                          | 
@@ -257,7 +257,6 @@ Follow on twitter [@Employbl_Jobs](https://twitter.com/Employbl_Jobs)
 | Zozi                  | "1 Beach St #300, San Francisco, CA 94133"                   | 37.8077574 | -122.4095987 | 2008 | https://www.zozi.com/                            |                          | 
 | Zumper                | "49 Geary St #350, San Francisco, CA 94108"                  | 37.787698  | -122.4042883 | 2012 | https://www.zumper.com/                          |                          | 
 | Zynga                 | "699 8th St, San Francisco, CA 94103"                        | 37.7704448 | -122.4041406 | 2007 | https://www.zynga.com/                           |                          | 
-                           |                        | 
 
 
 ### Company sources
