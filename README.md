@@ -1,11 +1,10 @@
 Companies in San Francisco
 ===
 
-Open Source list of technology companies and startups in San Francisco, addresses included. This project is for job seekers and salespeople to discover companies within the SF metro.
+![Mapping application coming soon](https://i.imgur.com/pPCJgvD.png)
+* Raw data for mapping application (coming soon!)*
 
-Make sure to check out [WhoIsHiring.io](https://whoishiring.io/search/37.7749/-122.4194/10?location=san+francisco) for a legit startup map
-
-Follow on twitter [@Employbl_Jobs](https://twitter.com/Employbl_Jobs)
+This is an open source list of technology companies, startups, nonprofits and digital agencies that have physical offices in San Francisco. It is not comprehensive but it is updated regularly and PRs are welcome. Data is available as a comma separated values (csv) file or markdown table. The goal of collecting this data is to build a mapping application that let's users easily browse and discover companies in the city.
 
 ## Companies
 
@@ -283,3 +282,5 @@ Follow on twitter [@Employbl_Jobs](https://twitter.com/Employbl_Jobs)
 @donatj for the [csv to markdown table converter](https://github.com/donatj/CsvToMarkdownTable)
 
 @willgeary for the post on [Geocoding With Google Sheets](http://willgeary.github.io/data/2016/11/04/)Geocoding-with-Google-Sheets.html
+
+If you like this repo be sure to also check out [WhoIsHiring.io](https://whoishiring.io/search/37.7749/-122.4194/10?location=san+francisco) for map of companies from around the world hiring right now.
