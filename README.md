@@ -282,4 +282,4 @@ Follow on twitter [@Employbl_Jobs](https://twitter.com/Employbl_Jobs)
 
 @donatj for the [csv to markdown table converter](https://github.com/donatj/CsvToMarkdownTable)
 
-@willgeary for the post on [Geocoding With Google Sheets](http://willgeary.github.io/data/2016/11/04/)Geocoding-with-Google-Sheets.html
+@willgeary for the post on [Geocoding With Google Sheets](http://willgeary.github.io/data/2016/11/04/Geocoding-with-Google-Sheets.html)
