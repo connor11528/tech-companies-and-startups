@@ -1,11 +1,11 @@
 Companies in San Francisco
 ===
 
-![Mapping application on Employbl](https://i.imgur.com/pPCJgvD.png)
+![Mapping application on Employbl](https://i.imgur.com/xjpfdE1.png)
 
 This is an open source list of technology companies, startups, nonprofits and digital agencies that have physical offices in San Francisco. It is not comprehensive but it is updated regularly and PRs are welcome. Data is available as a comma separated values (csv) file or markdown table. The goal of collecting this data is to build a mapping application that let's users easily browse and discover companies in the city.
 
-http://www.employbl.com/candidates/dashboard (account creation required)
+Create an account and play with the tool: http://www.employbl.com/candidates/dashboard
 
 ## Companies
 
