@@ -311,26 +311,6 @@ Create an account and play with the tool: http://www.employbl.com/candidates/das
 | Zynga     | "699 8th St, San Francisco, CA 94103"    | 37.7704448   | -122.4041406 | 2007 | https://www.zynga.com/   | | 
 
 
-
-### Company sources
-
-- Wealthfront Breakout Company List: https://notes.breakoutlist.com/breakout-list-annotated-version-of-wealthfronts-2017-career-launching-company-list-94444ab02ff
-
-- Crunchbase: https://www.crunchbase.com/app/search/companies/64e9ef5dd9ed4eaad32dc42e6dced9d86f469f3f
-
-- New YC List: https://newyclist.com/
-
-- AgelList: https://angel.co/san-francisco
-
-- Hired: https://hired.com/companies/san-francisco-bay-area
-
-- Startups in San Francisco: http://sanfrancisco.startups-list.com/
-
-- 500 Startups: https://500.co/startups/
-
-- Startup Tracker v3: https://startuptracker.io/v3/
-
-
 ### Many thanks
 
 @donatj for the [csv to markdown table converter](https://github.com/donatj/CsvToMarkdownTable)
