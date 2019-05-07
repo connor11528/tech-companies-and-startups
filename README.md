@@ -3,7 +3,7 @@ Tech Companies in the San Francisco Bay Area
 
 This is an open source list of San Francisco Bay Area. My focus in creating this list is to make a resource for candidates to find tech jobs in the Bay Area. It's something I developed while job hunting, recruiting and building [Employbl.com](https://www.employbl.com/). 
 
-> The data is stored in an [Airtable spreadsheet](https://airtable.com/invite/l?inviteId=invexdWq5y9ru4Sy2&inviteToken=85a74289c88a5bda48bf7c41e45c004f19e2951e12bda6e828438d48438b3419). Feel free to use that to view, comment, sort, group and filter the data. To make edits or additions please create a [Pull Request](https://github.com/connor11528/companies-in-the-bay-area/pulls) or email connor@employbl.com if you're not familiar with Git. 
+> To make edits or additions please create a [Pull Request](https://github.com/connor11528/companies-in-the-bay-area/pulls) or email connor@employbl.com if you're not familiar with Git. 
 
 ### Fields collected
 
@@ -34,7 +34,6 @@ These are the fields I've been collecting on Bay Area companies over the past fe
 - **Tech stack**: These are the technologies engineers at the company use and build with on a regular basis.	
 
 - **Marketing Stack**: Tools and technologies the marketing team uses.
-
 
 If you build something cool with this data please share it with me on twitter ([@connor11528](https://twitter.com/connor11528))
 
