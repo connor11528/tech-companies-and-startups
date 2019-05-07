@@ -11,7 +11,7 @@ These are the fields I've been collecting on Bay Area companies over the past fe
 
 - **Company Name**: Pretty self explanatory. You can view company profiles by their dashed case name on Employbl via url `https://employbl.com/companies/company-name-in-dash-case`. ([Example](https://employbl.com/companies/lob?ref=github))
 
-- **Tags**: Tags are a way of grouping companies by industry or type of business. These are made up by me and open to interpretation.	
+- **Tags**: Tags are a way of grouping companies by industry or type of business. These are made up by me and open to interpretation.	Example: [tech recruitment agencies in the Bay Area](https://employbl.com/blog/tech-recruitment-agencies-san-francisco-bay-area?ref=github)
 
 - **Location**: The location tag specifies what part of the Bay Area the company is located in. The field currently supports San Francisco, North Bay, South Bay, East Bay and Peninsula. If companies have multiple Bay Area locations I normally try and go with the headquarters location. We do not support multiple locations for companies on Employbl yet.	
 
