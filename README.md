@@ -1,9 +1,13 @@
-Tech Companies in the San Francisco Bay Area
+List of Tech Companies and Startups
 ===
 
 Companies data straight from the [Employbl](https://employbl.com/) production database.
 
-Query used to generate this data:
+## About the Data
+
+The data comes from a MySQL database and a spreadsheet I've been collecting for many years. All info is available across the free and open internet. For the most part company locations default to the office location of the company's Bay Area location, because that's what I was most interested in :)
+
+Query used to generate the **companies.csv** file:
 
 ``` 
 select c.id as 'Employbl Company ID',
@@ -20,6 +24,38 @@ c.image_url as 'Thumbnail URL'
 from companies c
 where c.deleted_at is null;
 ```
+
+To query for companies with a given tag:
+
+``` 
+select c.id as 'Employbl Company ID',
+c.name as 'Company Name',
+c.website as 'Website',
+c.street as 'Address 1',
+c.city as 'City',
+c.state as 'State',
+c.zip as 'Zip',
+c.latitude as 'Latitude',
+c.longitude as 'Longitude',
+c.description as 'Company Description',
+c.image_url as 'Thumbnail URL'
+from companies c
+join taggables t on t.taggable_id = c.id and t.taggable_type = 'App\\Company' and t.tag_id = 40714
+where c.deleted_at is null
+group by c.id;
+```
+
+Side note: we're using the [laravel/tags](https://github.com/spatie/laravel-tags) PHP package by @spatie (postcard coming to y'all soon!). These queries are mostly here to help me pull the latest data to update the data. If people start contributing we can set up a two-way sync ;)
+
+## Related blog posts
+
+- [Companies that use React.js in the Bay Area](https://employbl.com/blog/companies-that-use-reactjs-in-bay-area)
+
+- [Y Combinator companies with offices in San Francisco](https://employbl.com/blog/yc-companies-in-san-francisco)
+
+- [Silicon Valley Map of Tech Companies and Startups](https://employbl.com/blog/silicon-valley-companies-map)
+
+- [Tech Companies and Startups in Oakland](https://employbl.com/blog/tech-companies-startups-Oakland)
 
 ## Contributing 
 
