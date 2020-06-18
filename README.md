@@ -49,6 +49,8 @@ Side note: we're using the [laravel/tags](https://github.com/spatie/laravel-tags
 
 ## Related blog posts
 
+- [Top Venture Capital firms in the Bay Area](https://employbl.com/blog/top-venture-capital-firms-bay-area)
+
 - [Companies that use React.js in the Bay Area](https://employbl.com/blog/companies-that-use-reactjs-in-bay-area)
 
 - [Y Combinator companies with offices in San Francisco](https://employbl.com/blog/yc-companies-in-san-francisco)
