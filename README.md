@@ -1,39 +1,42 @@
 Tech Companies in the San Francisco Bay Area
 ===
 
-This is an open source list of San Francisco Bay Area. My focus in creating this list is to make a resource for candidates to find tech jobs in the Bay Area. It's something I developed while job hunting, recruiting and building [Employbl.com](https://www.employbl.com?ref=github). 
+Companies data straight from the [Employbl](https://employbl.com/) production database.
 
-> To make edits or additions please create a [Pull Request](https://github.com/connor11528/companies-in-the-bay-area/pulls) or email connor@employbl.com if you're not familiar with Git. 
+Query used to generate this data:
 
-### Fields collected
+``` 
+select c.id as 'Employbl Company ID',
+c.name as 'Company Name',
+c.website as 'Website',
+c.street as 'Address 1',
+c.city as 'City',
+c.state as 'State',
+c.zip as 'Zip',
+c.latitude as 'Latitude',
+c.longitude as 'Longitude',
+c.description as 'Company Description',
+c.image_url as 'Thumbnail URL'
+from companies c
+where c.deleted_at is null;
+```
 
-These are the fields I've been collecting on Bay Area companies over the past few years.
+## Contributing 
 
-- **Company Name**: Pretty self explanatory. You can view company profiles by their dashed case name on Employbl via url `https://employbl.com/companies/company-name-in-dash-case`. ([Example](https://employbl.com/companies/lob?ref=github))
+This is an open source project. The company location in most cases is the location of the company's Bay Area office. We have a more complex table structure on the Employbl website (which is not open source) to account for multiple company locations. If you're interested in using this data or would like to see the project succeed there are a couple ways you can help out:
 
-- **Tags**: Tags are a way of grouping companies by industry or type of business. These are made up by me and open to interpretation.	Example: [tech recruitment agencies in the Bay Area](https://employbl.com/blog/tech-recruitment-agencies-san-francisco-bay-area?ref=github)
+### #1 open a pull request
 
-- **Location**: The location tag specifies what part of the Bay Area the company is located in. The field currently supports San Francisco, North Bay, South Bay, East Bay and Peninsula. If companies have multiple Bay Area locations I normally try and go with the headquarters location. We do not support multiple locations for companies on Employbl yet.	
+One quick way to help is to [open a pull request](https://github.com/connor11528/companies-in-the-bay-area/pulls) and add to the company dataset. All of the data here remains open source. Edits can be made easily by downloading the CSV files from this repo and uploading them to Excel, Number or Airtable -- whatever your spreadsheet viewer of choice is. We're looking to add tech and startup companies in the United States. Our definition of a tech or startup company is pretty broad. Basically if the company employs people to sit in front of computers all day they count. New additions will be judged on a case by case basis. Please enter the data cleanly, no one likes messy data :)
 
-- **Investors**: This tag specifies which investors have backed the company. This is a very incomplete section. I've mostly used this field to find companies that have been backed by [Y Combinator](https://employbl.com/blog/yc-companies-in-san-francisco?ref=github).
+### #2 add your own company
 
-- **Description**: A few sentences or a tagline about what the company does. Oftentimes I will lift this from the description that appears in Google search results. Other times it comes from the company's home or about pages.
+If you work at a tech company or a startup make sure your company is on the list! We use this data to build out [company profiles](https://employbl.com/companies/Employbl) on Employbl dot com. Job seekers can also use this data to seek out new opportunities in the tech industry.
 
-- **Website**: This is the primary website the company owns. The company website is used in conjunction with the [Clearbit Logo API](https://clearbit.com/logo) to populate company logos on the Employbl website.
+### #3 tell your friends
 
-- **Founded Year**: The year when the company was founded..
+We're open to making more data accessible to candidates and job seekers. Maybe that means collecting richer information about companies like all their office locations or all their job listings. Maybe it means collecting articles about the company to provide more insight. It could be that the depth doesn't matter and it's more important to collect the most startups and tech companies possible. We're still figuring it out tbh. Our mission is to make this information accessible and build a system that helps candidates get jobs at tech companies in an equitable way. 
 
-- **Address**: Physical address of the company's Bay Area headquarters in format `Street, City State, Zip`
+### #4 Reach out directly
 
-- **Lat**: Latitude is populated via Google Maps API from the address column.	
-
-- **Long**: Same as above.	
-
-- **Company Size**: I've begun adding tags to companies with how many employees they have. The size groups are: `1-12, 13-60, 61-150, 151-250, 251-499, 500-999, 1,000+`.
-
-- **Tech stack**: These are the technologies engineers at the company use and build with on a regular basis. Example: [companies that use React.js](https://employbl.com/blog/companies-that-use-reactjs-in-bay-area?ref=github).
-
-- **Marketing Stack**: Tools and technologies the marketing team uses. Example: [companies that use Marketo](https://employbl.com/blog/marketo-bay-area-companies?ref=github)
-
-If you build something cool with this data please share it with me on twitter ([@connor11528](https://twitter.com/connor11528))
-
+If you like the project or just want to say "hi" you can [tweet me](https://twitter.com/Connor11528) or email me directly - connor@employbl.com.
