@@ -3,6 +3,16 @@ List of Tech Companies and Startups
 
 Companies data straight from the [Employbl](https://employbl.com/) production database.
 
+## Resources
+
+- [Silicon Valley Companies (with map)](http://employbl.test/blog/silicon-valley-companies-map)
+
+- [Companies that use Laravel](http://employbl.test/blog/companies-that-use-laravel-php-framework)
+
+- [Top VC firms in the Bay Area](https://employbl.com/blog/top-venture-capital-firms-bay-area)
+
+- [Y Combinator companies in SF](https://employbl.com/blog/yc-companies-in-san-francisco)
+
 ## About the Data
 
 The data comes from a MySQL database and a spreadsheet I've been collecting for many years. All info is available across the free and open internet. For the most part company locations default to the office location of the company's Bay Area location, because that's what I was most interested in :)
